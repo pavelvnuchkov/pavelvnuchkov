@@ -6,7 +6,9 @@
 ------
 #### Пока учебные проекты:
 * Приложение осуществляет: регистрацию и аутентификация пользователей, загрузку/скачивание файлов, управление правами доступа.
-  Java 17, Spring Boot 3.x, Spring Security + JWT, PostgreSQL, REST API.
+  Java 17, Spring Boot 3.x, Spring Security + JWT, PostgreSQL, REST API.<br>
+  [Ссылка на проект](https://github.com/pavelvnuchkov/cloud-storage.git) - серверная часть.
+  [Ссылка на проект]() - клиентская часть.  
 
 * Приложение принимает посты от пользователей. Реализовано полноценное CRUD приложене. С использованием Spring Web MVC с Embed Tomcat.      <br>
   [Ссылка на проект](https://github.com/pavelvnuchkov/spring-web-mvs-ex-48-1.git)
